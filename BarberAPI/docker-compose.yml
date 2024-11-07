@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  api_exemplo_render:
+    container_name: api_barber
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: api_barber
+    ports:
+      - "8075:8080"
