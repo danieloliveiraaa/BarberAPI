@@ -12,11 +12,11 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["BarberAPI/BarberAPI/BarberAPI.csproj", "BarberAPI/"]
-RUN dotnet restore "./BarberAPI/BarberAPI/BarberAPI.csproj"
+COPY ["BarberAPI/BarberAPI.csproj", "BarberAPI/"]
+RUN dotnet restore "./BarberAPI/BarberAPI.csproj"
 COPY . .
-WORKDIR "/src/BarberAPI"
-RUN dotnet build "./BarberAPI/BarberAPI/BarberAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build
+WORKDIR "/src/BarberAPI/BarberAPI.csproj"
+RUN dotnet build "./BarberAPI/BarberAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # Esta fase é usada para publicar o projeto de serviço a ser copiado para a fase final
 FROM build AS publish
