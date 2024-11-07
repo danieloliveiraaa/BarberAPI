@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\barberapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|solutionrelative:barberapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\barberapi\\contexto\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\contexto\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|solutionrelative:barberapi\\contexto\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\barberapi\\barberapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\barberapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|solutionrelative:barberapi\\barberapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\barberapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|solutionrelative:barberapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\barberapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|c:\\users\\silva\\onedrive\\\u00E1rea de trabalho\\barberapi\\barberapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7E86D970-7CE9-4EF9-8C8C-A13ABE695737}|BarberAPI\\BarberAPI.csproj|solutionrelative:barberapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,19 +46,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\Program.cs",
               "RelativeDocumentMoniker": "BarberAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\Program.cs",
               "RelativeToolTip": "BarberAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BarberAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\BarberAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI.csproj",
               "RelativeDocumentMoniker": "BarberAPI\\BarberAPI.csproj",
-              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\BarberAPI.csproj",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI.csproj",
               "RelativeToolTip": "BarberAPI\\BarberAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -80,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\Contexto\\DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\Contexto\\DBContext.cs",
               "RelativeDocumentMoniker": "BarberAPI\\Contexto\\DBContext.cs",
-              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\Contexto\\DBContext.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\Contexto\\DBContext.cs",
               "RelativeToolTip": "BarberAPI\\Contexto\\DBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BarberAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "BarberAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T13:35:14.498Z",
               "EditorCaption": ""
@@ -105,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BarberAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\\u00C1rea de Trabalho\\BarberAPI\\BarberAPI\\appsettings.json",
               "RelativeToolTip": "BarberAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCr1PaTMG2g=",
+  "dgSpecHash": "RDkiJ/zBBRk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\silva\\OneDrive\\Área de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI\\BarberAPI.csproj",
+  "projectFilePath": "C:\\Users\\silva\\OneDrive\\Área de Trabalho\\BarberAPI\\BarberAPI\\BarberAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silva\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\silva\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
